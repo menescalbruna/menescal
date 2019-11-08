@@ -1,0 +1,12 @@
+{
+	"name": "dataflowBru1",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [],
+			"sinks": [],
+			"transformations": [],
+			"script": "\n"
+		}
+	}
+}
